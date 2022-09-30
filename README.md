@@ -1,5 +1,5 @@
 # USTB-Adventure
-一款跑酷类游戏
+一款跑酷类游戏。
 
 ## 平台
 基于C的FunCode，提供了安装包。
